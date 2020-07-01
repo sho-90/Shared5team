@@ -1,0 +1,31 @@
+#include<stdio.h>
+void printArray(int *array);
+int sortArray(int *array);
+int main(int argc, char *argv[]){
+	printf("git test.\n");
+	sortArray();
+	printArray();
+	goArray();
+	maArray();
+
+}
+
+void printArray(int *array){
+//加藤の担当部分
+
+}
+
+void sortArray(int *array){
+//大塚の担当部分
+
+}
+
+void goArray(int *array){
+//天野の担当部分
+
+}
+
+void maArray(int *array){
+//後藤の担当部分
+
+}
